@@ -6,17 +6,17 @@
 - 🌱 I’m currently learning Java, Golang, Python, C++, Vue.
 - 📫 Reach me: demontina0@gmail.com
 - 😄 Pronouns: Yolo
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/YoloHK007/)
+- 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/Coocit/)
 - ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
 
 </br>
 
 
-| ![](https://github-readme-stats.vercel.app/api?username=YoloHK007&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | [![Yolo's github Stats](https://stats.justsong.cn/api/github?username=YoloHK007&theme=dark)](https://github.com/YoloHK007/YoloHK007/) |
+| ![](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515) | [![Yolo's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=dark)](https://github.com/Coocit/Coocit/) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoloHK007&layout=compact&theme=tokyonight&langs_count=10)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coocit&layout=compact&theme=tokyonight&langs_count=10)
 
 
 </br>
