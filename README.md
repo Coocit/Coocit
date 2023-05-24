@@ -3,7 +3,7 @@
 </br>
 
 - 🔭 I’m a student from Henan University of Science and Technology in China.
-- 🌱 I’m currently learning Java, Golang, Python, C++, Vue.
+- 🌱 I’m currently learning Java, Golang, Python, C++, Rust, Vue.
 - 📫 Reach me: demontina0@gmail.com
 - 😄 Pronouns: Yolo
 - ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
