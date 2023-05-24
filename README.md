@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Java, Golang, Python, C++, Vue.
 - 📫 Reach me: demontina0@gmail.com
 - 😄 Pronouns: Yolo
-- 👏 Follow Me: [![](https://img.shields.io/github/followers/jasonkayzk?label=follow%20me&style=social)](https://github.com/Coocit/)
 - ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
 
 </br>
