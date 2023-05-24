@@ -12,7 +12,7 @@
 </br>
 
 
-| ![](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&theme=tokyonight) | [![Yolo's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=tokyonight)](https://github.com/Coocit/Coocit/) |
+| ![](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&theme=tokyonight) | [![Yolo's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=blue-green)](https://github.com/Coocit/Coocit/) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
