@@ -16,7 +16,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coocit&layout=compact&theme=tokyonight&)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coocit&layout=compact&theme=tokyonight)
 
 
 </br>
