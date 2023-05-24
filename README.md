@@ -12,11 +12,11 @@
 </br>
 
 
-| ![](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&theme=dark) | [![Yolo's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=dark)](https://github.com/Coocit/Coocit/) |
+| ![](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&theme=tokyonight) | [![Yolo's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=tokyonight)](https://github.com/Coocit/Coocit/) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coocit&exclude_repo=github-readme-stats&layout=compact&theme=dark&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Coocit&exclude_repo=github-readme-stats&layout=compact&theme=tokyonight&langs_count=8)
 
 
 </br>
