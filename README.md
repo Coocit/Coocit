@@ -1,17 +1,17 @@
-### Hi there, I’m [Yolo](https://www.oilo.xyz/) 👋 
+### Hi there, I’m [Coocit](https://www.oilo.xyz/) 👋 
 
 </br>
 
 - 🔭 I’m a student from Henan University of Science and Technology in China.
 - 🌱 I’m currently learning Java, Golang, Python, C++, Rust, Vue.
-- 📫 Reach me: demontina0@gmail.com
-- 😄 Pronouns: Yolo
+- 📫 Reach me: yolocoocit@gmail.com
+- 😄 Pronouns: Coocit
 - ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
 
 </br>
 
 
-| ![](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&theme=tokyonight) | [![Yolo's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=tokyonight)](https://github.com/Coocit/Coocit/) |
+| ![](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&theme=tokyonight) | [![Coocit's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=tokyonight)](https://github.com/Coocit/Coocit/) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
