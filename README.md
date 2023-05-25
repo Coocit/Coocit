@@ -11,7 +11,7 @@
 </br>
 
 
-| ![Coocit's github Stats](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&theme=tokyonight) | [![Coocit's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=tokyonight)](https://github.com/Coocit/Coocit/) |
+| ![Coocit's github Stats](https://github-readme-stats.vercel.app/api?username=Coocit&&show_icons=true&theme=tokyonight) | [![Coocit's github Stats](https://stats.justsong.cn/api/github?username=Coocit&theme=tokyonight) |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 
