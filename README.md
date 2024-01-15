@@ -4,7 +4,7 @@
 
 - 🔭 I’m a student from Henan University of Science and Technology in China.
 - 🌱 I’m currently learning Java, Golang, Python, C++, Rust, PHP, C#, Vue.
-- 📫 Reach me: yolocoocit@gmail.com
+- 📫 Reach me: demontina0@gmail.com
 - 😄 Pronouns: Coocit
 - ⚡ Fun fact: Music, Japanese & English, Animation, Video games.
 
